@@ -26,8 +26,11 @@ this file also sends an email to a specified email address each time an incoming
 Finally, if you want to be able to send outgoing SMS messages from REDCap too, add the following to your alerts and notifications:
 ![image](https://user-images.githubusercontent.com/5281692/149120775-b7827c2f-4ff0-4f49-a60c-0066631edafc.png)
 
-to send an SMS message to a participant, simply open the SMS instrument in their record, create a new outgoing instance, type your message and save it.
+To send an SMS message to a participant, simply open the SMS instrument in their record, create a new outgoing instance, type your message and save it.
+
 ![image](https://user-images.githubusercontent.com/5281692/149121031-0b9e105e-1d3d-442d-aa4e-16214c343745.png)
+
 You can then see your conversation history with the participant on the record home page:
+
 ![image](https://user-images.githubusercontent.com/5281692/149121191-4c58a8aa-28a1-4954-b3e2-4a8129fc94ef.png)
 
